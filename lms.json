@@ -31,7 +31,7 @@
 
             "text": {
                 "headline": "Phase One - Conceptualization (ongoing)",
-                "text": "<p>Note that Sakai will remain the primary LMS through summer 2021. All Spring and Summer Session courses should be taught in Sakai. </p>"
+                "text": "<p>The objective of the project is to provide an implementation for excellent and scalable modern, powerful LMS -easy to use, easy to manage MOOC platform </p>"
             }
 
         },
@@ -56,7 +56,7 @@
 
             "text": {
                 "headline": "  Phase Two - Initial Implementation & Exploration",
-                "text": "<p>Note that Sakai will remain the primary LMS through summer 2021. All Spring and Summer Session courses should be taught in Sakai. </p>"
+                "text": "<p>This contains the procedure to be followed if the need arises to modify the SRS once the requirements have been signed-off</p>"
             }
 
         },
@@ -81,7 +81,7 @@
 
             "text": {
                 "headline": "Phase Three - Full Implementation",
-                "text": "<p>Note that Sakai will remain the primary LMS through summer 2021. All Spring and Summer Session courses should be taught in Sakai. </p>"
+                "text": "<p>Creating a MUST Online Learning Center with more advanced features for modern learning Institutions</p>"
             }
 
         }
@@ -102,7 +102,7 @@
 
             "text": {
                 "headline": "  Phase Four - Review & Refinement ",
-                "text": "<p>Note that Sakai will remain the primary LMS through summer 2021. All Spring and Summer Session courses should be taught in Sakai. </p>"
+                "text": "<p>This contains the procedure to be followed if the need arises to modify the SRS once the requirements have been signed-off.</p>"
             }
 
         }
