@@ -1,0 +1,110 @@
+{
+    "title": {
+        "media": {
+            "url": "media/images2.jpeg",
+            "caption": "This timeline describes the software project plan for a implementation of a branded Mbarara University Learning Management System.",
+            "credit": "Timeline <a href='media/images2.jpeg'>Image</a>"
+        },
+
+        "text": {
+            "headline": "Project Phases and Timeline",
+            "text": "<p>This project is divided into four phases. Each phase listed includes detailed steps the implementation. Action items for faculty, students, and staff are included. This timeline and information are updated frequently as the project progresses. </p>"
+        }
+    },
+    "events": [
+        {
+            "media": {
+                "url": "/media/images.png",
+                "caption": "This timeline describes the software project plan for a implementation of a branded scalable Mbarara University Learning Management System.",
+                "credit": "Timeline <a href='media/images.jpeg'>Image</a>"
+            },
+            "start_date": {
+                "month": "1",
+                "day": "18",
+                "year": "2022"
+            },
+            "end_date": {
+                "month": "1",
+                "day": "25",
+                "year": "2022"
+            },
+
+            "text": {
+                "headline": "Phase One - Conceptualization (ongoing)",
+                "text": "<p>Note that Sakai will remain the primary LMS through summer 2021. All Spring and Summer Session courses should be taught in Sakai. </p>"
+            }
+
+        },
+
+
+        {
+            "media": {
+                "url": "/media/images.png",
+                "caption": "This timeline describes the software project plan for a implementation of a branded scalable Mbarara University Learning Management System.",
+                "credit": "Timeline <a href='media/images.jpeg'>Image</a>"
+            },
+            "start_date": {
+                "month": "1",
+                "day": "23",
+                "year": "2022"
+            },
+            "end_date": {
+                "month": "2",
+                "day": "2",
+                "year": "2022"
+            },
+
+            "text": {
+                "headline": "  Phase Two - Initial Implementation & Exploration",
+                "text": "<p>Note that Sakai will remain the primary LMS through summer 2021. All Spring and Summer Session courses should be taught in Sakai. </p>"
+            }
+
+        },
+
+
+        {
+            "media": {
+                "url": "/media/images.png",
+                "caption": "This timeline describes the software project plan for a implementation of a branded scalable Mbarara University Learning Management System.",
+                "credit": "Timeline <a href='media/images.jpeg'>Image</a>"
+            },
+            "start_date": {
+                "month": "2",
+                "day": "1",
+                "year": "2022"
+            },
+            "end_date": {
+                "month": "4",
+                "day": "28",
+                "year": "2022"
+            },
+
+            "text": {
+                "headline": "Phase Three - Full Implementation",
+                "text": "<p>Note that Sakai will remain the primary LMS through summer 2021. All Spring and Summer Session courses should be taught in Sakai. </p>"
+            }
+
+        }
+        ,
+
+
+        {
+            "media": {
+                "url": "/media/images.png",
+                "caption": "This timeline describes the software project plan for a implementation of a branded scalable Mbarara University Learning Management System.",
+                "credit": "Timeline <a href='media/images.jpeg'>Image</a>"
+            },
+            "start_date": {
+                "month": "4",
+                "day": "28",
+                "year": "2022"
+            },
+
+            "text": {
+                "headline": "  Phase Four - Review & Refinement ",
+                "text": "<p>Note that Sakai will remain the primary LMS through summer 2021. All Spring and Summer Session courses should be taught in Sakai. </p>"
+            }
+
+        }
+    ]
+}

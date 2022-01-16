@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link title="timeline-styles" rel="stylesheet" 
+    href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css">
+    <script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+    integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+
+    
+    <script type="text/javascript" language="javascript" src="kuyesu.json"></script>
+    <script type="text/javascript">
+        $.getJSON("lms.json", function(data) {
+            var time_line = data;
+            // var timeline = new vis.Timeline(document.getElementById('visualization'));
+            window.timeline = new vis.Timeline(document.getElementById('visualization'));
+            window.timeline = new TL.Timeline("embed-timeline", time_line);
+        });
+    </script>
+
+    <script type="text/javascript">
+        $.getJSON("lms.json", function (data) {
+                var timeline_json = data;
+            window.timeline = new TL.Timeline('timeline-embed', timeline_json);
+            });
+    </script>
+
+</head>
+<body>
+    <!-- <div id="visualization" style="width: 100%; height: 600px;"></div> -->
+    <div id='timeline-embed' style="width: 100%; height: 600px"></div>
+</body>
+</html>
