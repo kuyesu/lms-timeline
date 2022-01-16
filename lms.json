@@ -1,9 +1,9 @@
 {
     "title": {
         "media": {
-            "url": "media/images2.jpeg",
+            "url": "media/images.png",
             "caption": "This timeline describes the software project plan for a implementation of a branded Mbarara University Learning Management System.",
-            "credit": "Timeline <a href='media/images2.jpeg'>Image</a>"
+            "credit": "Timeline <a href='media/images.png'>Image</a>"
         },
 
         "text": {
@@ -14,7 +14,7 @@
     "events": [
         {
             "media": {
-                "url": "media/images.png",
+                "url": "media/plan2.jpg",
                 "caption": "This timeline describes the software project plan for a implementation of a branded scalable Mbarara University Learning Management System.",
                 "credit": "Timeline <a href='media/images.jpeg'>Image</a>"
             },
@@ -39,18 +39,18 @@
 
         {
             "media": {
-                "url": "media/images.png",
+                "url": "media/start1.jpg",
                 "caption": "This timeline describes the software project plan for a implementation of a branded scalable Mbarara University Learning Management System.",
-                "credit": "Timeline <a href='media/images.jpeg'>Image</a>"
+                "credit": "Timeline <a href='media/start1.jpg'>Image</a>"
             },
             "start_date": {
                 "month": "1",
-                "day": "23",
+                "day": "25",
                 "year": "2022"
             },
             "end_date": {
                 "month": "2",
-                "day": "2",
+                "day": "17",
                 "year": "2022"
             },
 
@@ -64,13 +64,13 @@
 
         {
             "media": {
-                "url": "media/images.png",
+                "url": "media/design1.jpg",
                 "caption": "This timeline describes the software project plan for a implementation of a branded scalable Mbarara University Learning Management System.",
-                "credit": "Timeline <a href='media/images.jpeg'>Image</a>"
+                "credit": "Timeline <a href='media/design1.jpg'>Image</a>"
             },
             "start_date": {
                 "month": "2",
-                "day": "1",
+                "day": "15",
                 "year": "2022"
             },
             "end_date": {
@@ -90,9 +90,9 @@
 
         {
             "media": {
-                "url": "media/images.png",
+                "url": "media/review.jpg",
                 "caption": "This timeline describes the software project plan for a implementation of a branded scalable Mbarara University Learning Management System.",
-                "credit": "Timeline <a href='media/images.jpeg'>Image</a>"
+                "credit": "Timeline <a href='media/review.jpg'>Image</a>"
             },
             "start_date": {
                 "month": "4",
