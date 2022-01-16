@@ -14,7 +14,7 @@
     "events": [
         {
             "media": {
-                "url": "/media/images.png",
+                "url": "media/images.png",
                 "caption": "This timeline describes the software project plan for a implementation of a branded scalable Mbarara University Learning Management System.",
                 "credit": "Timeline <a href='media/images.jpeg'>Image</a>"
             },
@@ -39,7 +39,7 @@
 
         {
             "media": {
-                "url": "/media/images.png",
+                "url": "media/images.png",
                 "caption": "This timeline describes the software project plan for a implementation of a branded scalable Mbarara University Learning Management System.",
                 "credit": "Timeline <a href='media/images.jpeg'>Image</a>"
             },
@@ -64,7 +64,7 @@
 
         {
             "media": {
-                "url": "/media/images.png",
+                "url": "media/images.png",
                 "caption": "This timeline describes the software project plan for a implementation of a branded scalable Mbarara University Learning Management System.",
                 "credit": "Timeline <a href='media/images.jpeg'>Image</a>"
             },
@@ -90,7 +90,7 @@
 
         {
             "media": {
-                "url": "/media/images.png",
+                "url": "media/images.png",
                 "caption": "This timeline describes the software project plan for a implementation of a branded scalable Mbarara University Learning Management System.",
                 "credit": "Timeline <a href='media/images.jpeg'>Image</a>"
             },
